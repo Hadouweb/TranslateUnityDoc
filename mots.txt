@@ -1,6 +1,6 @@
 behavior
 them
-although
+although - bien que, malgré que 
 versatile
 will
 beyond
@@ -13,8 +13,19 @@ prompting
 rather
 below
 unlike
-———— 2 ————
 wherever - partout où
 occurs - (produit) se produire
 ensures - assure (assurer)
 tweak - pincer
+also - aussi
+though - bien que (quoique)
+kind - genre (espece, nature)
+would - voudrais
+feature - caractéristique (trait, particularité)
+attempt - tentative (effort)
+retrieve - récuperer (retrouver, rétablir)
+been - été
+will - volonté (désir, vouloir)
+straightforward - simple (franc, juste, honnête)
+rather - plutôt, (assez, un peu)
+that has that - ce qui a
