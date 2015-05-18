@@ -1,18 +1,18 @@
-behavior
-them
+behavior - comportement, conduite
+them - les, leur, eux
 although - bien que, malgré que 
-versatile
-will
-beyond
-provide
-allow
-further
-however
-whichever
-prompting
-rather
-below
-unlike
+versatile - souple, aux talents variés
+will - velonté, désir, vouloir
+beyond - au-delà, plus de, sauf
+provide - fournir, pourvoir, prévoir
+allow - permettre, laisser, autoriser
+further - plus loin, plus, davantage
+however - cependant, toutefois
+whichever - quel, celui qui, celle qui
+prompting - incitation
+rather - plutôt, assez, un peu
+below - dessous, plus bas, en bas
+unlike - contrairement à, différent
 wherever - partout où
 occurs - (produit) se produire
 ensures - assure (assurer)
